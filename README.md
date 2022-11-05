@@ -1,2 +1,2 @@
 # Website
-Hosting documents for my website [davidburgherr.com](davidburgherr.com)
+Hosting documents for my website [davidburgherr.com](https://www.davidburgherr.com/)
